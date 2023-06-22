@@ -11,9 +11,9 @@
 
 	<groupId>com.security.demo.filters</groupId>
 	<artifactId>security-filters</artifactId>
-	<version>${parent.version}</version>
+	<version>${project.parent.version}</version>
 	<name>security-filters</name>
-	<description>Demo project for Spring Security 6</description>
+	<description>Demo project for Spring Security 6 Filters</description>
 
 
 

@@ -1,4 +1,4 @@
-package com.security.demo
+package com.securityfilters.demo
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
